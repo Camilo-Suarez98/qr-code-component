@@ -22,7 +22,11 @@ Users should be able to:
 - See this QR code in different devices without problem with width and heigth
 
 ### Screenshot
+#### Mobile view:
+<img width="404" alt="image" src="https://github.com/Camilo-Suarez98/qr-code-component/assets/68169750/082bf115-62c6-4c68-a59f-c5e69d4157fc">
 
+#### Desktop view:
+<img width="825" alt="image" src="https://github.com/Camilo-Suarez98/qr-code-component/assets/68169750/a18ee3e9-7a7c-45d5-9430-0fe54cc36a3e">
 
 
 ## My process
